@@ -1,0 +1,19 @@
+﻿  booking.cpp
+C:\Users\ongch\OneDrive\桌面\PCD II assignment\Assignment\Assignment\booking.cpp(37,10): warning C4101: “book”: 未引用的局部变量
+C:\Users\ongch\OneDrive\桌面\PCD II assignment\Assignment\Assignment\booking.cpp(329,12): warning C4129: “|”: 不可识别的字符转义序列
+C:\Users\ongch\OneDrive\桌面\PCD II assignment\Assignment\Assignment\booking.cpp(350,10): warning C4129: “|”: 不可识别的字符转义序列
+C:\Users\ongch\OneDrive\桌面\PCD II assignment\Assignment\Assignment\booking.cpp(433,10): warning C4129: “|”: 不可识别的字符转义序列
+C:\Users\ongch\OneDrive\桌面\PCD II assignment\Assignment\Assignment\booking.cpp(360,44): warning C4101: “tStartMin”: 未引用的局部变量
+C:\Users\ongch\OneDrive\桌面\PCD II assignment\Assignment\Assignment\booking.cpp(360,55): warning C4101: “tEndHour”: 未引用的局部变量
+C:\Users\ongch\OneDrive\桌面\PCD II assignment\Assignment\Assignment\booking.cpp(360,65): warning C4101: “tEndMin”: 未引用的局部变量
+C:\Users\ongch\OneDrive\桌面\PCD II assignment\Assignment\Assignment\booking.cpp(361,9): warning C4101: “bookTime”: 未引用的局部变量
+C:\Users\ongch\OneDrive\桌面\PCD II assignment\Assignment\Assignment\booking.cpp(360,32): warning C4101: “tStartHour”: 未引用的局部变量
+C:\Users\ongch\OneDrive\桌面\PCD II assignment\Assignment\Assignment\booking.cpp(508,13): warning C4473: “printf”: 没有为格式字符串传递足够的参数
+C:\Users\ongch\OneDrive\桌面\PCD II assignment\Assignment\Assignment\booking.cpp(508,13): message : 占位符和其参数预计 1 可变参数，但提供的却是 0 参数
+C:\Users\ongch\OneDrive\桌面\PCD II assignment\Assignment\Assignment\booking.cpp(508,13): message : 缺失的可变参数 1 为格式字符串“%d”所需
+C:\Users\ongch\OneDrive\桌面\PCD II assignment\Assignment\Assignment\booking.cpp(549,10): warning C4129: “|”: 不可识别的字符转义序列
+C:\Users\ongch\OneDrive\桌面\PCD II assignment\Assignment\Assignment\booking.cpp(443,29): warning C4101: “newBookID”: 未引用的局部变量
+C:\Users\ongch\OneDrive\桌面\PCD II assignment\Assignment\Assignment\booking.cpp(594,10): warning C4129: “|”: 不可识别的字符转义序列
+C:\Users\ongch\OneDrive\桌面\PCD II assignment\Assignment\Assignment\booking.cpp(691,10): warning C4129: “|”: 不可识别的字符转义序列
+C:\Users\ongch\OneDrive\桌面\PCD II assignment\Assignment\Assignment\booking.cpp(797,11): warning C4129: “|”: 不可识别的字符转义序列
+  Assignment.vcxproj -> C:\Users\ongch\OneDrive\桌面\PCD II assignment\Assignment\Debug\Assignment.exe

@@ -1,0 +1,8 @@
+M1001 Luffy 19 Male 0123456789 Luffy@gmail.com
+M1002 Nami 19 Female 0123456788 Nami@gmail.com
+M1003 Zoro 19 Male 0123456787 Zoro@gmail.com
+M1004 Usopp 19 Male 0123456786 Usopp@gmail.com
+M1005 Sanji 19 Male 0123456785 Sanji@gmail.com
+M1006 Robin 30 Female 0123654789 Robin@gmail.com
+M1007 Ace 23 Male 0123954768 Ace@gmail.com
+M1009 QueenPa 32 Female 0135214562 Queenpa@gmail.com
